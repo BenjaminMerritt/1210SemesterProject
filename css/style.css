@@ -6,6 +6,12 @@
 		Purpose:              Styling for Lab 5b
 */
 
+header {
+    width: 100%;
+    height: 48px;
+    background-color: #FFC72C;
+}
+
 .table {
     display: flex;
     margin: 0 auto;
