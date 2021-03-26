@@ -1,0 +1,16 @@
+/*
+	Author:			Benjamin Merritt
+	Assignment:		Semester Project
+	Date:			3/26/2021
+	Purpose:		Choosing a color scheme/Using float to
+					position images/Learning a little about
+					Linux
+*/
+
+header {
+    background-color: #FFC72C;
+    height: 48px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
