@@ -64,6 +64,7 @@ td.homePage {
 .nav {
     display: inline;
     background-color: #FFC72C;
+    min-width: 150px;
 }
 
 .indent {
