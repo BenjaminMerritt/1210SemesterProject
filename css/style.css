@@ -72,6 +72,9 @@ td.homePage {
     list-style-position: inside;
 }
 
-.default {
-    
+footer {
+    background-image: url("../images/flag.png");
+    margin: 0px;
+    padding: 0px;
+    text-align: center
 }

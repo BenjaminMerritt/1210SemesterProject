@@ -1,0 +1,8 @@
+A-Team
+Samuel Compson, Benjamin Merritt
+http://merrittb.csci1210.com/project/index.html
+GitHub Link: https://github.com/BenjaminMerritt/1210SemesterProject
+
+**Passwords:
+                gobucs        (homepage)
+                3agleCam      (admin page)
